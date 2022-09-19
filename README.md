@@ -1,5 +1,4 @@
-### INSTRUÇÕES
-# Execute o programa
+# INSTRUÇÕES
 
 ### 1 - Selecione o tipo de convolução, depois aperte
 ### 2 - em OK e arraste e veja a convolução sendo efetuada
